@@ -1,4 +1,4 @@
-FROM mysten/sui-tools:fabcd0c851be3c81c6a6dece3d61568bcec7817e
+FROM mysten/sui-tools:devnet
 
 # Install GIT (during build-phase)
 RUN apt update
